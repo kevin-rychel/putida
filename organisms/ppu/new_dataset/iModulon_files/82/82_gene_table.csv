@@ -1,0 +1,5 @@
+locus,gene_weight,gene_name,gene_product,cog,operon,regulator,link
+PP_1994,0.1853036302426614,truA,tRNA pseudouridine (38-40)synthase,"Translation, ribosomal structure and biogenesis",Op1273,,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_1994&e1=1&assembly=complete
+PP_5188,0.1726606937072987,PP_5188,putative transcriptional regulator (AsnC/Lrp family),Transcription,Op3380,,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_5188&e1=1&assembly=complete
+PP_2336,-0.1792858106216541,acnA-II,aconitate hydratase 1,Energy production and conversion,Op1515,PrpR,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_2336&e1=1&assembly=complete
+PP_1025,-0.248646656965481,leuA,2-isopropylmalate synthase,Amino acid transport and metabolism,Op644,,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_1025&e1=1&assembly=complete

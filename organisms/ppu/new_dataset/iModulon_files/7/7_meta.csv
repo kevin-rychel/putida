@@ -1,0 +1,11 @@
+,0
+name,fModule_8
+TF,GltR-II
+regulator,"<a href=""https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=GltR-II&e1=1&assembly=complete"" target=""_blank"">GltR-II</a>"
+function,
+category,
+has_venn,True
+scatter,1
+exp_var,0.006092523619749768
+precision,0.18181818181818182
+recall,0.5714285714285714

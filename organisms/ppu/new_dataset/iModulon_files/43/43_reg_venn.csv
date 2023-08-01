@@ -1,0 +1,9 @@
+,Value,list
+TF,BenR,
+reg_genes,0,[]
+comp_genes,17,"['pcaJ' 'pcaH' 'pcaC' 'pcaF-I' 'catB' 'pcaG' 'pcaR' 'pcaQ' 'benR' 'catR'
+ 'pcaB' 'catC' 'nadB']"
+both_genes,0,['benC' 'benB' 'benD' 'benA']
+reg_genes2,4,
+comp_genes2,0,
+both_genes2,0,

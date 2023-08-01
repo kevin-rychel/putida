@@ -1,0 +1,8 @@
+,Value,list
+TF,PcaR,
+reg_genes,9,['pcaK']
+comp_genes,15,['pcaG' 'maeB' 'amaC' 'pcaR' 'pobR' 'pcaQ' 'pcaH']
+both_genes,8,['pcaJ' 'pcaI' 'pcaC' 'pcaF-I' 'pcaD' 'pobA' 'pcaT' 'pcaB']
+reg_genes2,0,
+comp_genes2,0,
+both_genes2,0,

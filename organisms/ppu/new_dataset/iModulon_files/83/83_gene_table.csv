@@ -1,0 +1,4 @@
+locus,gene_weight,gene_name,gene_product,cog,operon,regulator,link
+PP_1912,0.2272603604385447,plsX,Phosphate acyltransferase,Lipid transport and metabolism,Op1209,,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_1912&e1=1&assembly=complete
+PP_1706,-0.1745717388745473,nirD,Nitrite reductase,Inorganic ion transport and metabolism,Op1064,,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_1706&e1=1&assembly=complete
+PP_4696,-0.1866143968068998,PP_4696,Nitrogen regulation protein NR(I),Signal transduction mechanisms,Op3063,,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_4696&e1=1&assembly=complete
