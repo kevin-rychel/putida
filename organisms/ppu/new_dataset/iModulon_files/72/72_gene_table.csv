@@ -1,0 +1,4 @@
+locus,gene_weight,gene_name,gene_product,cog,operon,regulator,RpoD,link
+PP_2910,0.285954497719929,lhgO,L-2-hydroxyglutarate oxidase,Function unknown,Op1882,,False,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_2910&e1=1&assembly=complete
+PP_0214,0.2716551319756211,gabT,4-aminobutyrate aminotransferase,Amino acid transport and metabolism,Op148,RpoD,True,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_0214&e1=1&assembly=complete
+PP_0213,0.2448216487539085,gabD-I,succinate-semialdehyde dehydrogenase (NADP+),Energy production and conversion,Op148,RpoD,True,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_0213&e1=1&assembly=complete

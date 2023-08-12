@@ -1,0 +1,3 @@
+locus,gene_weight,gene_name,gene_product,cog,operon,regulator,link
+PP_0691,0.6098965035967816,proB,Glutamate 5-kinase,Nucleotide transport and metabolism,Op454,,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_0691&e1=1&assembly=complete
+PP_5095,0.182731749624451,proI,pyrroline-5-carboxylate reductase,Amino acid transport and metabolism,Op3320,,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_5095&e1=1&assembly=complete

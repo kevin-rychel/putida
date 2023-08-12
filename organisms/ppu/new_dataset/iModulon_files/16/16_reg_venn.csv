@@ -1,0 +1,11 @@
+,Value,list
+TF,PedR1,
+reg_genes,33,"['PP_2666' 'PP_0375' 'PP_2676' 'PP_2669' 'PP_2663' 'PP_2667' 'syrB'
+ 'PP_3781' 'PP_2664' 'cvrA' 'PP_3784' 'PP_3782' 'PP_5538' 'pqqD-II'
+ 'PP_2677' 'PP_3785' 'qedH-II' 'scpC' 'aldB-II' 'PP_2678']"
+comp_genes,20,['mmgF' 'PP_2217' 'fadBA' 'pqqF' 'PP_2213' 'prpC' 'PP_2215']
+both_genes,13,"['pqqB' 'pqqD-I' 'pqqC' 'yiaY' 'PP_2671' 'PP_2668' 'agmR' 'pqqE' 'PP_2675'
+ 'PP_2683' 'exaE' 'qedH-I' 'pqqA']"
+reg_genes2,0,
+comp_genes2,0,
+both_genes2,0,

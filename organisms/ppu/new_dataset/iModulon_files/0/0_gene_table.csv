@@ -1,0 +1,4 @@
+locus,gene_weight,gene_name,gene_product,cog,operon,regulator,link
+PP_2214,0.3166411390485975,fadBA,3-hydroxyacyl-CoA dehydrogenase type-2,Lipid transport and metabolism,Op1431,,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_2214&e1=1&assembly=complete
+PP_2217,0.271955780664543,PP_2217,enoyl-CoA hydratase,Lipid transport and metabolism,Op1431,,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_2217&e1=1&assembly=complete
+PP_2215,0.2602047783762305,PP_2215,acetyl-CoA acetyltransferase,Lipid transport and metabolism,Op1431,,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_2215&e1=1&assembly=complete

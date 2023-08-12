@@ -1,0 +1,2 @@
+locus,gene_weight,gene_name,gene_product,cog,operon,regulator,link
+PP_5155,0.529368471237931,serA,D-3-phosphoglycerate dehydrogenase / alpha-ketoglutarate reductase,Energy production and conversion,Op3356,,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_5155&e1=1&assembly=complete

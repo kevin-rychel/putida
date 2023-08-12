@@ -1,0 +1,4 @@
+locus,gene_weight,gene_name,gene_product,cog,operon,regulator,link
+PP_5075,0.5909223910754858,gltD,glutamate synthase (NADPH) beta subunit,Energy production and conversion,Op3309,,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_5075&e1=1&assembly=complete
+PP_5076,0.5781054754841326,gltB,L-glutamate synthase(NADPH) alpha subunit,Amino acid transport and metabolism,Op3309,,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_5076&e1=1&assembly=complete
+PP_5048,0.1025052452229164,glnG,two-component system DNA-binding transcriptional dual regulator GlnL/GlnG,Signal transduction mechanisms,Op3289,GlnG,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_5048&e1=1&assembly=complete

@@ -1,0 +1,8 @@
+,Value,list
+TF,GcsR,
+reg_genes,4,['tdcG-II']
+comp_genes,9,['ltaE' 'serA' 'PP_0997' 'hutC' 'nfuA' 'yicG']
+both_genes,3,['gcvT-I' 'gcvH-I' 'gcvP-I']
+reg_genes2,0,
+comp_genes2,0,
+both_genes2,0,

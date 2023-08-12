@@ -1,0 +1,11 @@
+,0
+name,fModule_5
+TF,BenR
+regulator,"<a href=""https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=BenR&e1=1&assembly=complete"" target=""_blank"">BenR</a>"
+function,
+category,
+has_venn,True
+scatter,1
+exp_var,0.0023259781220669185
+precision,0.3076923076923077
+recall,1.0

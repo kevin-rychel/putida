@@ -1,0 +1,3 @@
+locus,gene_weight,gene_name,gene_product,cog,operon,regulator,link
+PP_2795,0.1748994093234048,PP_2795,AMP-binding domain protein,Lipid transport and metabolism,Op1809,,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_2795&e1=1&assembly=complete
+PP_4762,0.1659080846874902,tesB,Acyl-CoA thioesterase II,Lipid transport and metabolism,Op3109,,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_4762&e1=1&assembly=complete

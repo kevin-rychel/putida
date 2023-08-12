@@ -1,0 +1,8 @@
+,Value,list
+TF,DctD-II,
+reg_genes,5,['ansB']
+comp_genes,12,['dctD-II' 'orn' 'PP_0594' 'PP_1067' 'dksA' 'hflC' 'gltP' 'PP_5337']
+both_genes,4,['gltK' 'gltI' 'gltJ' 'gltL']
+reg_genes2,0,
+comp_genes2,0,
+both_genes2,0,

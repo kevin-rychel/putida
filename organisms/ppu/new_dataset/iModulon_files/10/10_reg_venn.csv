@@ -1,0 +1,9 @@
+,Value,list
+TF,PrpR,
+reg_genes,6,['prpF' 'acnA-II' 'prpD']
+comp_genes,16,"['atoB' 'PP_4628' 'PP_2790' 'PP_2793' 'PP_2791' 'PP_3753' 'clpA' 'atoA'
+ 'PP_2794' 'paaX' 'PP_3121' 'hbd' 'bktB']"
+both_genes,3,['mmgF' 'PP_2333' 'prpC']
+reg_genes2,0,
+comp_genes2,0,
+both_genes2,0,

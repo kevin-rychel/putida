@@ -1,0 +1,8 @@
+,Value,list
+TF,PP_5350,
+reg_genes,5,['zwf' 'PP_5350']
+comp_genes,11,['fadB' 'mmgF' 'maeB' 'PP_0368' 'prpC' 'pcaF-II' 'PP_3539' 'fadD-I']
+both_genes,3,['PP_5659' 'glcB' 'aceA']
+reg_genes2,0,
+comp_genes2,0,
+both_genes2,0,

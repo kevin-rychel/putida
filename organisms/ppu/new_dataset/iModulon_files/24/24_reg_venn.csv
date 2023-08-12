@@ -1,0 +1,9 @@
+,Value,list
+TF,PrpR,
+reg_genes,6,['PP_2333' 'prpD']
+comp_genes,14,"['zwfA' 'PP_3491' 'PP_5188' 'mmsA-II' 'PP_2217' 'panB' 'PP_4668' 'pycB'
+ 'mmsB' 'ppx']"
+both_genes,4,['mmgF' 'prpC' 'prpF' 'acnA-II']
+reg_genes2,0,
+comp_genes2,0,
+both_genes2,0,

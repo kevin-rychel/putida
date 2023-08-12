@@ -1,0 +1,4 @@
+locus,gene_weight,gene_name,gene_product,cog,operon,regulator,link
+PP_4679,0.8495491631547726,ilvH,acetohydroxybutanoate synthase / acetolactate synthase,Amino acid transport and metabolism,Op3053,AlgR,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_4679&e1=1&assembly=complete
+PP_1088,0.1348848007102663,argG,Argininosuccinate synthase,Nucleotide transport and metabolism,Op681,RoxR,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_1088&e1=1&assembly=complete
+PP_4680,0.1213354355355313,ilvI,acetohydroxybutanoate synthase / acetolactate synthase,Coenzyme transport and metabolism,Op3053,,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_4680&e1=1&assembly=complete

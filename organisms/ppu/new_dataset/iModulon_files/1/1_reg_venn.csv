@@ -1,0 +1,10 @@
+,Value,list
+TF,ModR,
+reg_genes,0,[]
+comp_genes,22,"['moaC' 'moaB-I' 'moaE' 'iorA-II' 'tusA-I' 'nirD' 'glpK' 'moeA' 'moeB'
+ 'moaD' 'nirB' 'adhB' 'PP_1395' 'PP_3622' 'PP_4231' 'nicR' 'cycH' 'moaA'
+ 'cysNC']"
+both_genes,0,['modB' 'modA' 'modC']
+reg_genes2,3,
+comp_genes2,0,
+both_genes2,0,

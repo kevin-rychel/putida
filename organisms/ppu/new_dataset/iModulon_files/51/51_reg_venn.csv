@@ -1,0 +1,40 @@
+,Value,list
+TF,FleQ,
+reg_genes,263,"['PP_1778' 'PP_2593' 'flgL' 'PP_4610' 'znuB' 'PP_5699' 'PP_2738' 'PP_1878'
+ 'PP_0160' 'PP_2590' 'fliD' 'PP_1795' 'pbpG' 'PP_1637' 'PP_0705' 'PP_1797'
+ 'PP_0599' 'PP_1790' 'dacB' 'PP_3326' 'algJ' 'PP_2219' 'PP_2736' 'PP_4458'
+ 'quiA' 'PP_4316' 'PP_5263' 'paxB' 'rfbA' 'PP_3685' 'PP_0598' 'PP_2628'
+ 'PP_0351' 'PP_0116' 'PP_0166' 'PP_4335' 'oprH' 'rnr' 'PP_4057' 'PP_1786'
+ 'bfr-II' 'PP_2638' 'tolC' 'oprQ' 'atoC' 'PP_0703' 'PP_5305' 'PP_2737'
+ 'PP_0668' 'PP_3011' 'PP_4755' 'PP_2592' 'PP_2473' 'PP_4334' 'gacS'
+ 'PP_2735' 'adhP' 'PP_1647' 'ibpA' 'PP_0439' 'PP_1147' 'PP_4070' 'thiI'
+ 'yhiI' 'mrcA' 'PP_2633' 'PP_3547' 'PP_0861' 'PP_3323' 'mcoA' 'PP_0863'
+ 'algF' 'algL' 'oprD' 'PP_3126' 'fliH' 'PP_4606' 'PP_1793' 'algI' 'tsaA'
+ 'PP_2010' 'fliM' 'PP_1776' 'PP_2310' 'PP_3504' 'PP_1651' 'oprG' 'PP_1971'
+ 'fatD' 'PP_3503' 'trpD' 'PP_0051' 'phoQ' 'pet' 'PP_1729' 'yfdC' 'aldB-I'
+ 'PP_0162' 'arcD-I' 'PP_2193' 'PP_4608' 'PP_0180' 'PP_0788' 'yhhJ'
+ 'PP_3127' 'fatB' 'PP_3612' 'PP_0998' 'clpS' 'alg8' 'PP_1789' 'PP_1207'
+ 'bcsB' 'PP_2472' 'PP_1728' 'rbbA' 'PP_3186' 'PP_4961' 'PP_3611' 'tufA'
+ 'PP_0352' 'clpB' 'PP_1979' 'PP_4393' 'algA' 'arcC' 'PP_0153' 'PP_0862'
+ 'PP_3696' 'rlmB' 'gltR-II' 'PP_0159' 'PP_1208' 'PP_4333' 'folEB'
+ 'PP_5631' 'PP_1791' 'PP_0564' 'arcB' 'PP_2595' 'PP_2509' 'bcsG' 'PP_1151'
+ 'PP_1864' 'PP_3700' 'PP_0563' 'PP_3325' 'rfbC' 'PP_4459' 'PP_0131'
+ 'PP_0565' 'ooxB' 'fleS' 'PP_1970' 'gcdH' 'pcnB' 'arcA' 'PP_1794' 'algX'
+ 'dusA' 'PP_4882' 'PP_2240' 'PP_1006' 'PP_4345' 'PP_4342' 'PP_3142'
+ 'PP_0685' 'PP_0704' 'algK' 'PP_4888' 'PP_1978' 'PP_4350' 'phoP' 'PP_3128'
+ 'PP_1780' 'PP_2191' 'PP_1096' 'fliS' 'PP_1788' 'clpA' 'alg44' 'PP_1013'
+ 'PP_4317' 'PP_3733' 'evgA' 'phnN' 'PP_0546' 'PP_1787' 'algE' 'fliL'
+ 'PP_1515' 'PP_4609' 'PP_0667' 'PP_0168' 'PP_2596' 'pfeS-II' 'bcsA' 'pabA'
+ 'PP_5693' 'PP_1779' 'PP_3085' 'algD' 'ndh' 'PP_2192' 'PP_4881' 'mgtE'
+ 'pfeS-I' 'rhtA' 'PP_2975' 'flgD' 'cpsG' 'flhF' 'PP_1150' 'PP_2429' 'algG'
+ 'glmP' 'PP_4612' 'PP_4611' 'PP_5587' 'PP_0350' 'PP_0534' 'PP_3086' 'insN'
+ 'PP_1083' 'PP_0267' 'PP_2220' 'PP_0535' 'PP_1184' 'oprI' 'PP_1798'
+ 'PP_3789' 'bcsZ' 'ldhA' 'PP_1792' 'nadC' 'PP_4607' 'PP_2634' 'PP_4470'
+ 'PP_5365' 'PP_5745']"
+comp_genes,25,['fliC' 'fliA']
+both_genes,23,"['fliE' 'fliQ' 'flgF' 'fliJ' 'flhA' 'flgG' 'fliG' 'fliO' 'PP_4396' 'fliI'
+ 'flgJ' 'fliK' 'flgE' 'flgH' 'flhB' 'fliF' 'flgB' 'flgI' 'fliP' 'flgC'
+ 'flgK' 'fliR' 'flgA']"
+reg_genes2,0,
+comp_genes2,0,
+both_genes2,0,

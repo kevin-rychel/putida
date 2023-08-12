@@ -1,0 +1,3 @@
+locus,gene_weight,gene_name,gene_product,cog,operon,regulator,link
+PP_0967,0.765628407987624,hisC,Histidinol-phosphate aminotransferase,Amino acid transport and metabolism,Op611,TurA,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_0967&e1=1&assembly=complete
+PP_0965,0.1485534045146977,hisG,ATP phosphoribosyltransferase,Nucleotide transport and metabolism,Op611,,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_0965&e1=1&assembly=complete
