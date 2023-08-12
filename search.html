@@ -325,12 +325,12 @@
     const imNameResultItem = ({component, name, regulator, Function}, searchTerm) => {
         const re = new RegExp(searchTerm, "gi");
         const formatted = `<span class="result-title">${name}</span>   (<i>associated regulator(s): ${regulator}; Function: ${Function}</i>)`.replace(re, (match) => `<u><b>${match}</b></u>`)
-        return `<a class="result-link" style="text-decoration: none;" href="iModulon.html${link_suffix}&k=${component}"><li class="result name-result">${formatted}</li></a>`
+        return `<a class="result-link" style="text-decoration: none;" href="fModule.html${link_suffix}&k=${component}"><li class="result name-result">${formatted}</li></a>`
     };
     const imDescResultItem = ({component, name, regulator, Function}, searchTerm) => {
         const re = new RegExp(searchTerm, "gi");
         const formatted = `<span class="result-title">${name}</span>   (<i>associated regulator(s): ${regulator}; Function: ${Function}</i>)`.replace(re, (match) => `<u><b>${match}</b></u>`)
-        return `<a class="result-link" style="text-decoration: none;" href="iModulon.html${link_suffix}&k=${component}"><li class="result desc-result">${formatted}</li></a>`
+        return `<a class="result-link" style="text-decoration: none;" href="fModule.html${link_suffix}&k=${component}"><li class="result desc-result">${formatted}</li></a>`
     };
 
     // Headers for different sections

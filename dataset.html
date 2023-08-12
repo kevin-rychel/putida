@@ -150,8 +150,8 @@
         <div class="col-md-9 p-3">
             <h5 class="text-center">fModules</h5>
 
-            <!-- iModulon Table -->
-            <div id="iM_table" style="width: 100%"></div>
+            <!-- fModules Table -->
+            <div id="fM_table" style="width: 100%"></div>
 
             <hr/>
             <!-- Footer -->
@@ -212,7 +212,7 @@
 
         // dataset title
         var title = metadata[1][1];
-        document.title = 'iModulonDB: ' + title.replace(/(<([^>]+)>)/ig, '');
+        document.title = 'fModules: ' + title.replace(/(<([^>]+)>)/ig, '');
         if (title.slice(-8) != ' Dataset') {
             title = title + ' Dataset';
         }
@@ -285,7 +285,7 @@
         ]
 
         // generate the table
-        var table = new Tabulator('#iM_table', {
+        var table = new Tabulator('#fM_table', {
 
             layout: "fitColumns",
             data: tabledata,
@@ -300,14 +300,14 @@
                 {column: "Category", dir: "asc"},
             ],*/
             rowClick: function (e, row) { //link to the page in a database
-                var link = 'iModulon.html?';
+                var link = 'fModule.html?';
                 link += 'organism=' + params.get('organism') + '&';
                 link += 'dataset=' + params.get('dataset') + '&';
                 link += 'k=' + row.getData().k;
                 window.location.href = link;
             },
             tooltips: function (cell) {
-                return "Click to view iModulon dashboard";
+                return "Click to view fModule dashboard";
             }
         });
         table.redraw();
