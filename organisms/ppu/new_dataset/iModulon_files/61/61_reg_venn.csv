@@ -1,8 +1,0 @@
-,Value,list
-TF,PP_3603,
-reg_genes,15,['PP_3603' 'PP_4759' 'PP_4758' 'PP_3602' 'gudD' 'PP_1166']
-comp_genes,11,['PP_5322' 'PP_0435']
-both_genes,9,['gudP' 'garD' 'PP_1168' 'dctP' 'udh' 'kdgD' 'gnl' 'PP_1165' 'PP_1167']
-reg_genes2,0,
-comp_genes2,0,
-both_genes2,0,

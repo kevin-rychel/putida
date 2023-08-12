@@ -1,3 +1,0 @@
-locus,gene_weight,gene_name,gene_product,cog,operon,regulator,link
-PP_5145,0.5193150705449873,ptsP,phosphoenolpyruvate-dependent regulator (with NPR and NTR proteins),Signal transduction mechanisms,Op3348,,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_5145&e1=1&assembly=complete
-PP_0948,0.3370881730308055,ptsH,Phosphocarrier protein HPr,Carbohydrate transport and metabolism,Op606,,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_0948&e1=1&assembly=complete

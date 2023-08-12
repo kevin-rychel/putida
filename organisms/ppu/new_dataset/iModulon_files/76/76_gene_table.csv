@@ -1,3 +1,0 @@
-locus,gene_weight,gene_name,gene_product,cog,operon,regulator,PsrA,link
-PP_0368,0.3485588469261039,PP_0368,putative Acyl-CoA dehydrogenase,Energy production and conversion,Op252,PsrA,True,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_0368&e1=1&assembly=complete
-PP_2137,0.3144007140614923,pcaF-II,beta-ketoadipyl CoA thiolase%2C beta component,Lipid transport and metabolism,Op1373,PsrA,True,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_2137&e1=1&assembly=complete

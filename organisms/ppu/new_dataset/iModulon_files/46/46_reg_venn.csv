@@ -1,8 +1,0 @@
-,Value,list
-TF,PhhR,
-reg_genes,0,[]
-comp_genes,11,['PP_2402' 'amaC' 'pabB' 'PP_0393' 'miaA' 'tgt' 'hpd' 'PP_3434' 'pde']
-both_genes,0,['phhR' 'phhA']
-reg_genes2,2,
-comp_genes2,0,
-both_genes2,0,

@@ -1,4 +1,0 @@
-locus,gene_weight,gene_name,gene_product,cog,operon,regulator,link
-PP_2388,0.4121147107076511,PP_2388,Transporter%2C LysE family,Amino acid transport and metabolism,Op1548,,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_2388&e1=1&assembly=complete
-PP_2390,0.3159805069189417,PP_2390,Transcriptional regulator%2C LysR family,Transcription,Op1549,,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_2390&e1=1&assembly=complete
-PP_4058,-0.3408799332252666,glgB,1%2C4-alpha-glucan branching enzyme,Carbohydrate transport and metabolism,Op2649,,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_4058&e1=1&assembly=complete

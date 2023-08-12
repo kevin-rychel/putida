@@ -1,2 +1,0 @@
-locus,gene_weight,gene_name,gene_product,cog,operon,regulator,link
-PP_0787,0.8503282204755799,nadC,quinolinate phosphoribosyltransferase (decarboxylating) monomer,Coenzyme transport and metabolism,Op514,FleQ,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_0787&e1=1&assembly=complete

@@ -1,8 +1,0 @@
-,Value,list
-TF,HutC,
-reg_genes,8,['proY' 'PP_5034' 'hutC']
-comp_genes,14,['hisH' 'hisC' 'hisD' 'hisB' 'hisG' 'hisA' 'PP_0291' 'purN' 'hisI']
-both_genes,5,['hutF' 'hutI' 'hutU' 'hutH' 'hutG']
-reg_genes2,0,
-comp_genes2,0,
-both_genes2,0,

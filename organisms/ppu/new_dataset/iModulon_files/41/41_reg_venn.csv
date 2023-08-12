@@ -1,8 +1,0 @@
-,Value,list
-TF,BirA,
-reg_genes,6,['PP_0361']
-comp_genes,13,['ivd' 'mccB' 'atoA' 'bioA' 'hisA' 'liuC' 'mccA' 'atoB']
-both_genes,5,['bioB' 'bioD' 'bioF' 'bioC' 'bioH']
-reg_genes2,0,
-comp_genes2,0,
-both_genes2,0,

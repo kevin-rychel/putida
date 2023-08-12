@@ -1,5 +1,0 @@
-locus,gene_weight,gene_name,gene_product,cog,operon,regulator,link
-PP_1110,0.468903810848976,PP_1110,serine acetyltransferase,Amino acid transport and metabolism,Op696,RoxR,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_1110&e1=1&assembly=complete
-PP_1109,0.4640982604124569,PP_1109,Transcriptional regulator%2C GntR family,Transcription,Op695,,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_1109&e1=1&assembly=complete
-PP_1111,0.3945470722881473,PP_1111,putative Synthetase,Function unknown,Op696,RoxR,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_1111&e1=1&assembly=complete
-PP_4947,0.1148891683451746,putA,proline dehydrogenase/1-pyrroline-5-carboxylate dehydrogenase,Energy production and conversion,Op3223,,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_4947&e1=1&assembly=complete

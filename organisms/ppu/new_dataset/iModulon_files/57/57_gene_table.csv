@@ -1,5 +1,0 @@
-locus,gene_weight,gene_name,gene_product,cog,operon,regulator,PrpR,link
-PP_2136,0.3279094919380295,fadB,enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase,Lipid transport and metabolism,Op1373,PsrA,False,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_2136&e1=1&assembly=complete
-PP_2335,0.2653282535524897,prpC,methylcitrate synthase,Energy production and conversion,Op1514,"PrpR,GnuR,AmrZ",True,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_2335&e1=1&assembly=complete
-PP_2334,0.2412075038649053,mmgF,2-methylisocitrate lyase,Coenzyme transport and metabolism,Op1514,"PrpR,GnuR",True,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_2334&e1=1&assembly=complete
-PP_4549,0.165593279893867,fadD-I,long-chain-fatty-acid/CoA ligase,Lipid transport and metabolism,Op2957,Crc,False,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_4549&e1=1&assembly=complete

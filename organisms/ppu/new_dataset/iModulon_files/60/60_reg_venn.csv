@@ -1,8 +1,0 @@
-,Value,list
-TF,PydR,
-reg_genes,5,['hyuC' 'pydP']
-comp_genes,6,['cysB' 'PP_0596' 'PP_4754']
-both_genes,3,['pydX' 'pydB' 'pydA']
-reg_genes2,0,
-comp_genes2,0,
-both_genes2,0,

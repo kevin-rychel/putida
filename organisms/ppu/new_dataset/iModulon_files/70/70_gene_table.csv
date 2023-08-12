@@ -1,2 +1,0 @@
-locus,gene_weight,gene_name,gene_product,cog,operon,regulator,link
-PP_0292,0.5606022375237175,hisA,phosphoribosylformimino-5-aminoimidazole carboxamide ribonucleotide isomerase,Amino acid transport and metabolism,Op201,,https://pseudomonas.com/primarySequenceFeature/list?strain_ids=110&term=Pseudomonas+putida+KT2440+%28TIGR%29&c1=name&v1=PP_0292&e1=1&assembly=complete

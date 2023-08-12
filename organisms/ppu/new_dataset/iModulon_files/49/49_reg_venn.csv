@@ -1,8 +1,0 @@
-,Value,list
-TF,PP_2046,
-reg_genes,5,['PP_2048' 'fadA' 'PP_2050']
-comp_genes,7,['metF' 'PP_3662' 'rpoS' 'PP_2144' 'nadB']
-both_genes,2,['PP_2049' 'PP_2047']
-reg_genes2,0,
-comp_genes2,0,
-both_genes2,0,

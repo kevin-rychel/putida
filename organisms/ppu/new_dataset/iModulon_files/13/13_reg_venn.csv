@@ -1,8 +1,0 @@
-,Value,list
-TF,PP_3359,
-reg_genes,0,[]
-comp_genes,5,['pobA' 'glcB']
-both_genes,0,['PP_3358' 'vdh' 'fcs']
-reg_genes2,3,
-comp_genes2,0,
-both_genes2,0,
