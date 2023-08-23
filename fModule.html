@@ -373,8 +373,11 @@
         });
         // add download links specific to this imodulon
         document.getElementById("gene_table_download").setAttribute('href', data_prefix + 'gene_table.csv');
+        document.getElementById("gene_table_download").setAttribute('download', im_name + 'gene_table.csv');
         document.getElementById("gene_weights_download").setAttribute('href', data_prefix + 'gene_weights.csv');
+        document.getElementById("gene_weights_download").setAttribute('download', im_name + 'gene_weights.csv');
         document.getElementById("activity_download").setAttribute('href', data_prefix + 'activity.csv');
+        document.getElementById("activity_download").setAttribute('download', im_name + 'activity.csv');
 
         // handle regulation
         var venn_bool = (im_meta[6][1] == 'True')
