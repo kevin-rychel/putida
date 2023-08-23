@@ -47,7 +47,7 @@ function generateRegulonScatter(csvContent, container, tf_i){
         },
         yAxis: {
             title:{
-                text: 'iModulon Activity',
+                text: 'fModule Activity',
             },
             crosshair: true,
             startOnTick: false,
@@ -74,7 +74,7 @@ function generateRegulonScatter(csvContent, container, tf_i){
             formatter: function() {
                 var tooltip = "<b>"+this.point.name+"</b>";
                 tooltip += "<br>"+reg_name+' Expression: '+this.point.x.toFixed(3);
-                tooltip += "<br>iModulon Activity: " + this.point.y.toFixed(3);
+                tooltip += "<br>fModule Activity: " + this.point.y.toFixed(3);
                 return tooltip;
             }
         },

@@ -78,7 +78,7 @@ function generateGeneScatter(csvContent, container) {
         },
         yAxis: {
             title: {
-                text: 'iModulon Weight',
+                text: 'fModule Weight',
             },
             crosshair: true,
             startOnTick: false,
@@ -119,7 +119,7 @@ function generateGeneScatter(csvContent, container) {
                 }
                 tooltip += "<br>Category: " + this.point.cog;
                 tooltip += "<br>" + x_label + ": " + this.point.x.toFixed(x_label_dec);
-                tooltip += "<br>iModulon Weight: " + this.point.y.toFixed(3);
+                tooltip += "<br>fModule Weight: " + this.point.y.toFixed(3);
                 return tooltip;
             }
         },

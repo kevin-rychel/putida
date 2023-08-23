@@ -326,10 +326,10 @@
             // iModulon name
             var im_name = im_meta[1][1];
             if (typeof(im_name) == 'number') {
-                im_name = 'iModulon ' + im_name.toString()
+                im_name = 'fModule' + im_name.toString()
             } else {
                 if ((im_name.slice(0, 8) != 'iModulon') & (im_name.slice(-8) != 'iModulon')) {
-                    im_name = im_name + ' iModulon';
+                    im_name = im_name;
                 }
             }
             $('#im_name').append(im_name);
@@ -369,7 +369,7 @@
             
             
             // change page title
-            document.title = im_meta[1][1] + ' fModule';
+            document.title = im_meta[1][1];
         });
         // add download links specific to this imodulon
         document.getElementById("gene_table_download").setAttribute('href', data_prefix + 'gene_table.csv');

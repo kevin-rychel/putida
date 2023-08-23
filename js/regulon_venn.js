@@ -47,7 +47,7 @@
          type: 'venn',
          name: 'Regulon Venn Diagram',
          data: [{
-           sets: ['iModulon Genes'],
+           sets: ['fModule Genes'],
            color: '#2085e3',
            opacity: 0.7,
            value: imodulon,
@@ -59,46 +59,46 @@
            value: regulon,
            gene_list: reg_list
          }, {
-           sets: ['Regulon Genes', 'iModulon Genes'],
+           sets: ['Regulon Genes', 'fModule Genes'],
            value: overlap,
            color: '#3de3e0',
            opacity: 0.7,
-           name: 'Genes in Regulon and iModulon',
+           name: 'Genes in Regulon and fModule',
            gene_list: both_list
          }, {
-           sets: ['iModulon all contained in Regulon'],
+           sets: ['fModule all contained in Regulon'],
            value: imodulon2,
            color: '#3de3e0',
            opacity: 0.7,
-           name: 'Genes in Regulon and iModulon',
+           name: 'Genes in Regulon and fModule',
            gene_list: both_list
          }, {
-           sets: ['Regulon Genes', 'iModulon all contained in Regulon'],
+           sets: ['Regulon Genes', 'fModule all contained in Regulon'],
            value: imodulon2,
            color: '#3de3e0',
            opacity: 0.7,
-           name: 'Genes in Regulon and iModulon',
+           name: 'Genes in Regulon and fModule',
            gene_list: both_list
          }, {
-           sets: ['Regulon all contained in iModulon'],
+           sets: ['Regulon all contained in fModule'],
            value: regulon2,
            color: '#37d7b4',
            opacity: 0.7,
-           name: 'Genes in Regulon and iModulon',
+           name: 'Genes in Regulon and fModule',
            gene_list: both_list
          }, {
-           sets: ['iModulon Genes', 'Regulon all contained in iModulon'],
+           sets: ['fModule Genes', 'Regulon all contained in fModule'],
            value: regulon2,
            color: '#37d7b4',
            opacity: 0.7,
-           name: 'Genes in Regulon and iModulon',
+           name: 'Genes in Regulon and fModule',
            gene_list: both_list
          }, {
-           sets: ['Regulon == iModulon'],
+           sets: ['Regulon == fModule'],
            value: overlap2,
            color: '#37d7b4',
            opacity: 0.7,
-           name: 'Genes in Regulon and iModulon',
+           name: 'Genes in Regulon and fModule',
            gene_list: both_list
          }]
        }],
@@ -109,7 +109,7 @@
            formatter: function() {
                // display totals
                var tooltip = this.point.name + ": <b>" + this.point.value + "</b>";
-               if (this.point.name=="Regulon Genes" | this.point.name=="iModulon Genes") {
+               if (this.point.name=="Regulon Genes" | this.point.name=="fModule Genes") {
                    tooltip += "<br>Genes in "+this.point.name.substring(0, this.point.name.length-6);
                    tooltip += " only: <b>" + (this.point.gene_list.split(', ').length) + "</b>";
                }

@@ -204,7 +204,7 @@
         },
         yAxis: {
             title:{
-                text: 'iModulon Activity',
+                text: 'fModule Activity',
             },
             crosshair: true,
             startOnTick: false,
