@@ -192,7 +192,7 @@
         },
         yAxis: {
             title:{
-                text: 'Log TPM Gene Expression',
+                text: 'Gene Fitness',
             },
             crosshair: true,
             startOnTick: false,
